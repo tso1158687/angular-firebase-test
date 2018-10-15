@@ -14,6 +14,7 @@ export class MainComponent implements OnInit {
    }
 
   ngOnInit() {
+    console.log(this.items);
   }
 
 }
